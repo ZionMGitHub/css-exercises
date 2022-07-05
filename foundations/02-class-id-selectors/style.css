@@ -1,0 +1,20 @@
+.odds{
+    background-color: red;
+    background-color: pink;
+    font-family: "Verdana", "DejaVu sans", sans-serif;
+}
+
+#second-el{
+    color: blue;
+    font-size: 32px;
+}
+
+.third-el{
+    font-size: 24px;
+}
+
+#fourth-el{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
